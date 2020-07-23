@@ -12,3 +12,8 @@ In particular f (0) = 0; f (1) = 1, f (2) = f (0) + f (1) = 0 + 1 = 1 ...
 Example:
 bash: ~ $ ./fibonacci 7
 13
+
+Istruction for running the program:
+-move to directory with the makefile and the script in c
+-use "make" and next you can run the program with "./fibonacci"
+-use "make clean" to remove the compilated file
