@@ -13,7 +13,7 @@ Example:
 bash: ~ $ ./fibonacci 7
 13
 
-Istruction for running the program:
+Istruction for run the program:
 -move to directory with the makefile and the script in c
 -use "make" and next you can run the program with "./fibonacci"
 -use "make clean" to remove the compilated file
